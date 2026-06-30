@@ -10,12 +10,14 @@
 
 - **The report is more honest than most commissioned marketing, but it is not neutral.** Procedurally it is fair (disclosed weights, uniform application, correct arithmetic); in *effect* it flatters Horizon through (a) a handful of verified competitor spec errors and (b) one systematic, single-direction bias in the heaviest-weighted criterion (Accuracy) — both running the same way.
 - **Headline "Horizon tops 4 of 14" overstates our position.** Correcting only verified facts keeps all four wins but narrows them and reshuffles the podium against us. Applying the report's *own* Accuracy rule consistently flips **Vandal Prime 2 to Fierce** and turns Venatic 2 into a near-tie — an honest tally closer to **2 clear wins + 1 contested + 1 uncontested niche**.
-- **Where Horizon genuinely leads:** premium broad-chambering hunters (Venatic Carbon 2, Venatic 2). **Where it doesn't:** weight, price/value, and chambering breadth on focused models — the three levers in §7.
+- **Where Horizon genuinely leads:** premium broad-chambering hunters (Venatic Carbon 2, Venatic 2). **Where it doesn't:** weight, price/value, and chambering breadth on focused models — the three levers in §8.
 - **The strongest competitors after correction:** Fierce (best head-to-head record), Seekins (best once its real published prices are used), and a correctly-weighed Christensen. Bergara is the value leader the 5%-Value weighting is built not to reward.
+- **The delivery lens (§7) nearly *inverts* the spec lens.** On researched owner sentiment, the order is **Horizon 7.75 > Seekins 6.85 > Bergara 6.70 > Christensen 5.10 ≈ Fierce 5.05** — i.e., the two brands that win on *paper* (Fierce, Christensen) are the ones the market trusts *least* to deliver ("roll the dice," ~25–30% QC lottery, friction-laden warranties). Horizon leads on delivery — but on **thin, low-confidence data**, so it reads as "strong signal, unproven at scale." This promise-vs-delivery gap is Horizon's single biggest strategic opening.
 
-**Jump to detail in this document:** [1. Bottom-line verdict](#1-bottom-line-verdict) · [2. Cross-cutting findings](#2-cross-cutting-findings-themes-that-appear-across-multiple-audits) · [3. Corrected rankings](#3-reconciled-corrected-rankings) · [4. Per-brand summary](#4-per-brand-summary) · [5. What the report gets right](#5-what-the-report-gets-right-verified) · [6. Recommendations to the publisher](#6-recommendations-to-the-publisher) · [**7. Highest-value recommendations for Horizon**](#7-highest-value-recommendations-for-horizon) · [8. Honest headline](#8-honest-headline-the-data-supports)
+**Jump to detail in this document:** [1. Bottom-line verdict](#1-bottom-line-verdict) · [2. Cross-cutting findings](#2-cross-cutting-findings-themes-that-appear-across-multiple-audits) · [3. Corrected rankings](#3-reconciled-corrected-rankings) · [4. Per-brand summary](#4-per-brand-summary) · [5. What the report gets right](#5-what-the-report-gets-right-verified) · [6. Recommendations to the publisher](#6-recommendations-to-the-publisher) · [**7. Customer sentiment / delivery**](#7-customer-sentiment--does-the-market-believe-each-brand-delivers) · [**8. Highest-value recommendations for Horizon**](#8-highest-value-recommendations-for-horizon) · [9. Honest headline](#9-honest-headline-the-data-supports)
 
-**Full evidence (per-brand audits — spec tables, source URLs, worked arithmetic):** [Seekins](seekins.md) · [Fierce](fierce.md) · [Bergara](bergara.md) · [Christensen](christensen.md) · [Horizon self-audit](horizon.md)
+**Full evidence — spec audits (spec tables, source URLs, worked arithmetic):** [Seekins](seekins.md) · [Fierce](fierce.md) · [Bergara](bergara.md) · [Christensen](christensen.md) · [Horizon self-audit](horizon.md)
+**Full evidence — delivery/sentiment audits (owner quotes, sub-scores, sources):** [Horizon](sentiment_horizon.md) · [Seekins](sentiment_seekins.md) · [Fierce](sentiment_fierce.md) · [Bergara](sentiment_bergara.md) · [Christensen](sentiment_christensen.md)
 
 ---
 
@@ -41,7 +43,7 @@ This is the most consequential finding and the only one corroborated from every 
 - **Seekins** ships a **fired, per-rifle sub-MOA test target** — demonstrated proof, which the report's *own* Appendix C concedes is *stronger* evidence than Horizon's unverified claim — yet Seekins is scored *below* Horizon on Accuracy in all 11 of its matchups.
 - The report's own rule says guarantees "are manufacturer claims, not measured results" and earn only "a modest edge." Horizon's Accuracy scores violate that rule in its own favor.
 - **Counter-check (fairness in both directions):** the Bergara and Christensen audits found the Accuracy *spread* applied to *them* (1.0-MOA tier scored ~8.2–8.5) is largely defensible once barrel construction is accounted for — so this is specifically a Horizon-vs-equal-or-better-guarantee problem, not a blanket miscalibration. Our own Horizon skeptic quantified the inflation at **~+0.27 Accuracy points / +0.05 weighted points per matchup**, one-directional.
-- **The deeper blind spot — promise vs. delivery.** Even a *corrected* Accuracy score still measures only the published guarantee, which any brand can print. It says nothing about *how well a maker lives up to it* — real-world group sizes, warranty-honor rates, rework/return experience, owner sentiment. That delivery dimension is invisible to a spec-only model, yet it is arguably the most decision-relevant accuracy signal of all, and the one place a premium brand can build a durable, hard-to-copy advantage (Seekins' per-rifle test target is one brand already monetizing exactly this gap). This is both a stated limitation of the report **and** a strategic opening for Horizon — see [§7, recommendation 1](#7-highest-value-recommendations-for-horizon).
+- **The deeper blind spot — promise vs. delivery.** Even a *corrected* Accuracy score still measures only the published guarantee, which any brand can print. It says nothing about *how well a maker lives up to it* — real-world group sizes, warranty-honor rates, rework/return experience, owner sentiment. That delivery dimension is invisible to a spec-only model, yet it is arguably the most decision-relevant accuracy signal of all, and the one place a premium brand can build a durable, hard-to-copy advantage (Seekins' per-rifle test target is one brand already monetizing exactly this gap). This is both a stated limitation of the report **and** a strategic opening for Horizon — now quantified with researched owner sentiment in [§7](#7-customer-sentiment--does-the-market-believe-each-brand-delivers) and acted on in [§8, recommendation 1](#8-highest-value-recommendations-for-horizon).
 
 ### 2.2 Value is weighted at only 5% — structurally muting price, in a report commissioned by the most expensive brand
 Raised independently by the Bergara and Horizon audits.
@@ -125,16 +127,62 @@ To keep this assessment unbiased, these held up under scrutiny:
 
 ---
 
-## 7. Highest-value recommendations for Horizon
+## 7. Customer sentiment — does the market believe each brand *delivers*?
+
+The spec scoring (and even the corrected spec scoring) measures only the **promise** any brand can print. This section measures **delivery**: five additional Sonnet agents researched real owner sentiment — forums (Rokslide, Snipers Hide, Reddit, Hunt Talk, AR15.com), independent lab/press tests, dealer reviews, and warranty/CS signals (BBB, Trustpilot) — and scored each brand on five delivery dimensions. Full evidence with owner quotes and source URLs: [Horizon](sentiment_horizon.md) · [Seekins](sentiment_seekins.md) · [Fierce](sentiment_fierce.md) · [Bergara](sentiment_bergara.md) · [Christensen](sentiment_christensen.md).
+
+**Scoring logic.** Each dimension 0–10, weighted to reflect what "delivering on the quality/performance promise" actually means — the promise is mostly *accuracy + build*, CS is how failures get handled, and the two soft measures capture whether owners feel it was worth it. Composite = weighted sum. A **separate** Confidence rating and evidence-volume count keep the data-asymmetry honest (Horizon is a low-volume boutique brand; Christensen/Bergara have ~5× the data), so the uncertainty is visible rather than blended away.
+
+| Brand | Accuracy-in-practice (30%) | Build & reliability (30%) | Warranty/CS (20%) | Value sentiment (10%) | Reputation (10%) | **Composite** | Confidence (≈ sources) |
+|---|---|---|---|---|---|---|---|
+| **Horizon** | 8.0 | 7.5 | 7.5 | 8.0 | 8.0 | **7.75** | Low–Med (~17) |
+| **Seekins** | 7.0 | 6.0 | 7.0 | 8.0 | 7.5 | **6.85** | Med (~70) |
+| **Bergara** | 7.0 | 6.5 | 5.5 | 8.5 | 7.0 | **6.70** | Med–High (~55) |
+| **Christensen** | 6.0 | 4.5 | 5.0 | 5.0 | 4.5 | **5.10** | Med–High (~85) |
+| **Fierce** | 6.0 | 5.0 | 4.0 | 5.0 | 4.5 | **5.05** | Med (~48) |
+
+### Headline: the delivery ranking nearly *inverts* the spec ranking
+- **Fierce tops the corrected *spec* scoring but ranks last on *delivery* (5.05).** Its field reputation is an explicit gamble — *"roll the dice… shooter or a boat anchor"* — with unit-to-unit QC variance, slow/silent customer service, and a **$200 contingent fee just to invoke the accuracy guarantee.** The brand that wins on paper is the one the market trusts least to honor the paper.
+- **Christensen — the lightest, broadest, most premium spec sheet — ranks 4th (5.10):** a documented **~25–30% "QC lottery,"** BBB grade **D-**, and enthusiast shorthand like *"the Taurus of precision rifles"* and *"friends don't let friends buy Christensen Arms."* CS has measurably improved since 2019 but is not fixed.
+- **Bergara (6.70):** value sentiment is near-unconditional (8.5) and reliability/cycling is a genuine strength, but accuracy is ammo-sensitive and warranty is a coin-flip.
+- **Seekins (6.85): the only rival strong on *both* axes** — credible premium accuracy + value, dragged only by a QC-variance tail and some 2025–26 CS slippage.
+- **Horizon leads delivery (7.75) — but on thin, low-confidence data.** Every reachable source (independent lab tests, gun-press tests, forum owners) points the same way: it shoots the 0.5 MOA promise and buyers come back. But there is **no large-N check** — no Reddit/BBB/Trustpilot footprint, single-digit forum posters, n=1–2 lab rifles. Read it as **"strong directional signal, unproven at scale,"** not a confirmed #1.
+
+### The universal theme — and Horizon's opening
+Across **all four** established competitors, the dominant complaint is identical: **unit-to-unit QC variance** — the luck-of-the-draw between a tack-driver and a rifle that needs a warranty rebarrel — and **warranty/CS is where rivals actively lose customers** (Fierce's fee + silence, Bergara's coin-flip, Christensen's D-, even Seekins' once-vaunted service "slipping"). A paper guarantee is universal; *consistent delivery of it is rare.* Horizon currently carries **no** QC-lottery reputation — which is genuine quality, low volume, or both. Either way it is the **most valuable and most fragile asset Horizon has**, and §8 is built around proving and protecting it.
+
+### Why this is kept separate from the spec score (not blended into one number)
+The two lenses sit on different scales (corrected spec totals are compressed at ~7.8–8.8; delivery spans 5.0–7.8) and, more importantly, different **confidence** levels. Collapsing a Medium-High Christensen delivery score and Horizon's Low-confidence one into a single rank would launder exactly the uncertainty that *is* the finding. The honest representation is positional — **where a brand sits on paper vs. whether the market trusts it to deliver:**
+
+```
+                      DELIVERS  (high owner sentiment)
+                              ^
+                Seekins       |       Horizon *
+            (strong on both)  |   (* thin / low-confidence data)
+   spec-weak <----------------+----------------> spec-strong
+                Bergara        |     Fierce
+           (value moat,        |   Christensen
+            coin-flip CS)      |  (great on paper, gamble in hand)
+                              v
+                       GAMBLE  (low owner sentiment)
+```
+
+Seekins is the only competitor in the top-right with both. Fierce and Christensen occupy the "great on paper, gamble in hand" quadrant — precisely the space a **trusted-delivery** brand can take share from, which is the strategic core of the recommendations below.
+
+---
+
+## 8. Highest-value recommendations for Horizon
 
 Ranked by competitive impact — each tied to the criterion weight it moves and the specific matchups it would affect. The first three are where the leverage actually is; they target the three heaviest criteria on which Horizon currently *loses* (Accuracy 20%, Weight 15%, Caliber 10%).
 
 ### Tier 1 — highest leverage
 
-**1. Turn the 0.5 MOA guarantee from a *claim* into *delivered, demonstrated* proof — and make "how we live up to it" the differentiator. (Accuracy, 20% — the single heaviest criterion.)**
-A guarantee is table stakes; *anyone can print one*. What separates brands is how well they honor it in the field — and that distinction is exactly what a spec-only comparison cannot see and what no price-cutting competitor can easily copy. Two concrete moves:
-- **Ship a fired, per-rifle test target** with every rifle (as Seekins does). This converts our weakest-justified high score — the Accuracy edge three audits flagged as currently *unearned* — into the one form of evidence the report's own Appendix C concedes is stronger than a guarantee. It immediately legitimizes our 20%-weighted advantage and neutralizes Seekins' key claim.
-- **Capture and publish customer-sentiment evidence of delivery:** independent reviews, owner-reported group sizes, warranty-honor and rework/return rates, and an NPS/satisfaction program. *Promise-vs-delivery is a moat:* a rival can match our paper 0.5 MOA overnight, but not a documented track record of living up to it. Recommend building this into marketing and tracking it as a managed metric — it is the one axis on which a premium brand can defend a premium.
+**1. Turn the 0.5 MOA guarantee from a *claim* into *delivered, demonstrated* proof — and make "how we live up to it" the differentiator. (Accuracy, 20% — the single heaviest criterion; and the §7 delivery lens, where the whole market is weak.)**
+A guarantee is table stakes; *anyone can print one*. The §7 sentiment research proves the point empirically: **every established rival's dominant complaint is failure to deliver the promise consistently** — Fierce "roll the dice… shooter or boat anchor" (delivery 5.05), Christensen's ~25–30% QC lottery and BBB D- (5.10), Bergara's coin-flip warranty (6.70), even Seekins' service "slipping" (6.85). That is a wide-open lane, and the one thing a price-cutter cannot copy. Concrete moves:
+- **Ship a fired, per-rifle test target** with every rifle (as Seekins does). This converts our weakest-justified high score — the Accuracy edge three spec audits flagged as currently *unearned* — into the one form of evidence the report's own Appendix C concedes is stronger than a guarantee. It legitimizes our 20%-weighted advantage and neutralizes Seekins' key claim.
+- **Make warranty/CS a deliberate weapon, not a cost center.** Rivals are *actively losing customers* on service (Fierce's $200 fee-to-claim + multi-week silence; "told to pound sand"). A fast, no-fee, no-friction accuracy-and-service guarantee — and visibly honoring it — directly attacks the competitor weakness the market complains about most.
+- **Capture and publish customer-sentiment evidence of delivery:** independent reviews, owner-reported group sizes, warranty-honor and rework/return rates, and an NPS program. *Promise-vs-delivery is the moat:* a rival can match our paper 0.5 MOA overnight, but not a documented record of living up to it.
+- **Protect the QC-consistency advantage as you scale.** Horizon's delivery lead (7.75) currently rests on *thin data and low volume* — and every competitor's reputation was destroyed by the **unit-to-unit variance** that shows up precisely when volume grows. Lock in QC process (per-rifle proof, tightened reamer/chamber control — the exact failure point cited for Fierce and Christensen) *before* scaling, so growth doesn't manufacture the "lottery" reputation that sank the others.
 
 **2. Broaden chamberings on the focused models. (Caliber, 10% — our single largest recurring deficit.)**
 Single-caliber models (Vandal Dark II, Villain, Vandal X, Bloodline) score **3.5–4.5** against rivals' 8.6–9.0; Venatic DM (7.0) and Vandal Carbon 2 (7.6) bleed points here too — and these are precisely the matchups we lose to the Seekins Element M3 (whose verified breadth is 9.0). As the **originator of the 22 Creedmoor**, Horizon is uniquely positioned to own a *broad* proprietary-cartridge menu rather than cede breadth. Add 1–3 orderable chamberings to each focused model, **or** explicitly frame the purpose-built single-calibers so the deficit reads as intent, not omission. This is the highest-ROI spec change: closing it directly threatens Seekins' two wins over us.
@@ -158,7 +206,7 @@ Horizon hunters run **7–7.5 lb** where Christensen Ti is **4.8 lb**, Bergara C
 
 ---
 
-## 8. Honest headline the data supports
+## 9. Honest headline the data supports
 
 > Across nine identically-weighted criteria and after live-spec correction, **Horizon leads its premium broad-chambering hunters (Venatic Carbon 2, Venatic 2)** and is **competitive but not dominant elsewhere**, trading the top spot with **Fierce** (best corrected head-to-head record), **Seekins** (best once its real, published prices are used), and a **correctly-weighed Christensen MPR**. **Bergara** is the value leader the scoring is structurally built not to reward. Horizon's reported "tops 4 of 14" is, corrected, closer to **2 clear wins, 1 contested, and 1 uncontested-niche** — a strong premium lineup, fairly described, without the thumb on the scale.
 
