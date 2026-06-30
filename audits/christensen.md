@@ -80,7 +80,22 @@ No outright matchup winner changes (Fierce/Seekins models retain top spot in all
 - If Ridgeline is still genuinely in production and dealer-orderable in the broader chambering set the report describes, then the $2,199.99 price is overstated by ~$400 versus the verified $1,799.99, which would mean Ridgeline's **Value score (8.4) is understated** and should rise — likely into the 8.8–9.0 range that Mesa FFT earns at a comparable real price point.
 - If, however, Ridgeline truly is now a narrow, legacy 4-caliber model as Christensen's own site states, then the **Caliber score (8.8, the matchup's category leader) is overstated**, and a closer, currently-marketed analog to the carbon-barreled, $3,399 Vandal Carbon 2 would be the **Ridgeline FFT** (verified 5.3–5.4 lb, 22+ chamberings, $2,399.99) — Christensen's actual current lightweight-carbon flagship, which would score Christensen higher on Weight and Caliber than the model actually used, even after accounting for its higher price reducing the Value score somewhat.
 
-**Proposed score correction:** None asserted pending Christensen's confirmation of current Ridgeline (non-FFT) production/ordering status — per the audit's own rule, a score change requires a verified factual basis, and the two plausible readings above point in opposite directions for different criteria. **Recommendation to publisher:** re-verify with Christensen Arms directly (or a current dealer) whether the standard Ridgeline is still orderable in the 7-chambering configuration at $2,199.99; if not, replace it with Ridgeline FFT as the matchup's analog and rescore using its verified specs (5.3–5.4 lb / 22+ chamberings / $2,399.99 / TriggerTech / Sub-MOA / hinged-internal mag).
+**Resolution (confirmed):** Christensen's site shows the **Ridgeline FFT** as the currently-active lightweight-carbon model; the standard Ridgeline is the legacy listing. Per Horizon's direction, the **Ridgeline FFT** is adopted as the correct current-production analog for the carbon-barreled Vandal Carbon 2 and rescored on its verified specs (5.3–5.4 lb / 22+ chamberings / $2,399.99 / TriggerTech / Sub-MOA / aerograde carbon / FFT carbon stock + brake / hinged-internal mag), calibrated to how this report already scores comparable Christensen carbon models (e.g., Ridgeline FFT Titanium's Caliber 9.0 in the Venatic Carbon 2 matchup):
+
+| Criterion (weight) | Legacy Ridgeline (as used) | Ridgeline FFT (current analog) | Basis |
+|---|---|---|---|
+| Accuracy 20% | 8.3 | 8.3 | Same Sub-MOA tier |
+| Accessories 15% | 8.2 | 8.3 | Adds integrated brake |
+| Weight 15% | 9.1 | 9.2 | Verified 5.3–5.4 lb |
+| Stock 12% | 8.2 | 8.4 | FFT carbon stock upgrade |
+| Caliber 10% | 8.8 | 9.0 | Verified 22+ chamberings |
+| Barrel 9% | 8.6 | 8.6 | Aerograde carbon-wrapped 416R |
+| Trigger 9% | 8.5 | 8.5 | TriggerTech |
+| Magazine 5% | 7.3 | 7.3 | Hinged internal floorplate |
+| Value 5% | 8.4 | 8.0 | Verified $2,399.99 (vs legacy's lower real price) |
+| **Weighted total** | **8.44** | **8.50** | |
+
+The Ridgeline FFT (8.50) is marginally stronger than the legacy listing (8.44). The Vandal Carbon 2 matchup winner is unchanged (Seekins Element M3), but Christensen now sits ahead of Bergara on a verified-current basis (and ahead of Horizon once the consistent-accuracy correction is applied — see consolidated assessment). *(Note: the FFT criterion scores above are an analyst estimate calibrated to this report's own scoring of comparable Christensen carbon models, not figures published by Christensen.)*
 
 ---
 
@@ -119,7 +134,7 @@ Applying Finding 1 (the only finding with a sufficiently confirmed factual basis
 - **Venatic DM, Venatic Riff, Venatic Max, Vena-Bull:** Christensen MPR moves up one rank position in each (to 4th, 2nd, 2nd, and 2nd of 5, respectively); no matchup winner changes, but MPR's gap to the leader narrows sharply — in Vena-Bull, from 0.29 to a near-tie of 0.05.
 - **Vandal DM:** Christensen MPR overtakes the Horizon model itself (8.54 vs. 8.32), moving from 4th to 2nd place and pushing Horizon's Vandal DM from 3rd to 4th. The matchup winner (Fierce Reaper H-TAC 2.0) is unchanged, but the report's framing of this matchup — which currently reads as a clean Horizon #2 finish — should reflect that a correctly-specced Christensen MPR outperforms the Horizon model.
 
-If Finding 2 is resolved in Christensen's favor (confirmed current Ridgeline pricing/availability, or substitution of Ridgeline FFT as the analog), Christensen's position in the Vandal Carbon 2 matchup (currently 3rd of 5 at 8.44) would likely also improve, though no specific new total is asserted without that confirmation.
+Finding 2 is now resolved by substituting the current-production **Ridgeline FFT** (8.50) for the legacy Ridgeline (8.44) in the Vandal Carbon 2 matchup. Christensen moves from 5th to 4th (ahead of Bergara) under the facts-only correction, and — once the consistent-accuracy correction lowers Horizon's Vandal Carbon 2 to 8.45 — Christensen's 8.50 also moves **ahead of the Horizon model**. The matchup's named winner (Seekins Element M3, 8.69 corrected) does not change.
 
 No matchup's named "Top-scoring rifle" (the headline result for any of the 14 Horizon models) changes as a result of this audit's corrections.
 

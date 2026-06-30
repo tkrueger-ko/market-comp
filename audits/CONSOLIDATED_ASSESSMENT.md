@@ -2,7 +2,20 @@
 
 **Subject:** `Horizon_Comparative_Analysis_UNBIASED_2026.html` — a Horizon-commissioned, 23-page comparison scoring 14 Horizon bolt-action rifles against role-matched rivals from Seekins Precision, Fierce Firearms, Bergara, and Christensen Arms on nine weighted criteria.
 
-**Method:** Five independent Sonnet auditors were run — one per competitor and one internal skeptic for Horizon — each web-verifying every spec/price/chambering against live 2026 manufacturer sources and testing the report against *its own* stated scoring rules. This document reconciles their findings, resolves conflicts where corrections stack, and recomputes the contested matchups under one consistent ruleset. Underlying audits: [`seekins.md`](seekins.md), [`fierce.md`](fierce.md), [`bergara.md`](bergara.md), [`christensen.md`](christensen.md), [`horizon.md`](horizon.md).
+**Method:** Five independent Sonnet auditors were run — one per competitor and one internal skeptic for Horizon — each web-verifying every spec/price/chambering against live 2026 manufacturer sources and testing the report against *its own* stated scoring rules. This document reconciles their findings, resolves conflicts where corrections stack, and recomputes the contested matchups under one consistent ruleset.
+
+---
+
+## Executive summary
+
+- **The report is more honest than most commissioned marketing, but it is not neutral.** Procedurally it is fair (disclosed weights, uniform application, correct arithmetic); in *effect* it flatters Horizon through (a) a handful of verified competitor spec errors and (b) one systematic, single-direction bias in the heaviest-weighted criterion (Accuracy) — both running the same way.
+- **Headline "Horizon tops 4 of 14" overstates our position.** Correcting only verified facts keeps all four wins but narrows them and reshuffles the podium against us. Applying the report's *own* Accuracy rule consistently flips **Vandal Prime 2 to Fierce** and turns Venatic 2 into a near-tie — an honest tally closer to **2 clear wins + 1 contested + 1 uncontested niche**.
+- **Where Horizon genuinely leads:** premium broad-chambering hunters (Venatic Carbon 2, Venatic 2). **Where it doesn't:** weight, price/value, and chambering breadth on focused models — the three levers in §7.
+- **The strongest competitors after correction:** Fierce (best head-to-head record), Seekins (best once its real published prices are used), and a correctly-weighed Christensen. Bergara is the value leader the 5%-Value weighting is built not to reward.
+
+**Jump to detail in this document:** [1. Bottom-line verdict](#1-bottom-line-verdict) · [2. Cross-cutting findings](#2-cross-cutting-findings-themes-that-appear-across-multiple-audits) · [3. Corrected rankings](#3-reconciled-corrected-rankings) · [4. Per-brand summary](#4-per-brand-summary) · [5. What the report gets right](#5-what-the-report-gets-right-verified) · [6. Recommendations to the publisher](#6-recommendations-to-the-publisher) · [**7. Highest-value recommendations for Horizon**](#7-highest-value-recommendations-for-horizon) · [8. Honest headline](#8-honest-headline-the-data-supports)
+
+**Full evidence (per-brand audits — spec tables, source URLs, worked arithmetic):** [Seekins](seekins.md) · [Fierce](fierce.md) · [Bergara](bergara.md) · [Christensen](christensen.md) · [Horizon self-audit](horizon.md)
 
 ---
 
@@ -28,6 +41,7 @@ This is the most consequential finding and the only one corroborated from every 
 - **Seekins** ships a **fired, per-rifle sub-MOA test target** — demonstrated proof, which the report's *own* Appendix C concedes is *stronger* evidence than Horizon's unverified claim — yet Seekins is scored *below* Horizon on Accuracy in all 11 of its matchups.
 - The report's own rule says guarantees "are manufacturer claims, not measured results" and earn only "a modest edge." Horizon's Accuracy scores violate that rule in its own favor.
 - **Counter-check (fairness in both directions):** the Bergara and Christensen audits found the Accuracy *spread* applied to *them* (1.0-MOA tier scored ~8.2–8.5) is largely defensible once barrel construction is accounted for — so this is specifically a Horizon-vs-equal-or-better-guarantee problem, not a blanket miscalibration. Our own Horizon skeptic quantified the inflation at **~+0.27 Accuracy points / +0.05 weighted points per matchup**, one-directional.
+- **The deeper blind spot — promise vs. delivery.** Even a *corrected* Accuracy score still measures only the published guarantee, which any brand can print. It says nothing about *how well a maker lives up to it* — real-world group sizes, warranty-honor rates, rework/return experience, owner sentiment. That delivery dimension is invisible to a spec-only model, yet it is arguably the most decision-relevant accuracy signal of all, and the one place a premium brand can build a durable, hard-to-copy advantage (Seekins' per-rifle test target is one brand already monetizing exactly this gap). This is both a stated limitation of the report **and** a strategic opening for Horizon — see [§7, recommendation 1](#7-highest-value-recommendations-for-horizon).
 
 ### 2.2 Value is weighted at only 5% — structurally muting price, in a report commissioned by the most expensive brand
 Raised independently by the Bergara and Horizon audits.
@@ -69,7 +83,7 @@ Only the five genuinely contested matchups are recomputed here; the other nine a
 | **Venatic 2** | Horizon **8.71** (+0.30) | Horizon **8.71** holds; Fierce CT Rival XP rises to 8.57 (+0.14) | Horizon **8.63** holds but margin cut to **+0.06** |
 | **Venatic DM** | Seekins Element M3 **8.66** (Horizon #2 by 0.01) | Seekins **8.69** tops; Horizon 8.64 & Fierce 8.64 **tie for #2**; Christensen MPR leaps to 8.54 | Seekins **8.69** tops; Horizon **drops to #3** behind Fierce (8.64) |
 | **Vandal Prime 2** | Horizon **8.61** (+0.20) | Horizon **8.61** holds; Fierce CT Rival XP rises to 8.57 (+0.04, near-tie) | **FLIPS → Fierce CT Rival XP 8.57** beats Horizon 8.53 |
-| **Vandal Carbon 2** | Seekins Element M3 **8.66** (Horizon #3) | Seekins **8.69** tops; Fierce Rage LR 8.60; Horizon #3 at 8.53 | Seekins **8.69** tops; Horizon **drops to #4** (8.45), behind Bergara |
+| **Vandal Carbon 2** | Seekins Element M3 **8.66** (Horizon #3) | Seekins **8.69** tops; Fierce Rage LR 8.60; Horizon #3 (8.53); Christensen FFT 8.50; Bergara 8.49 | Seekins **8.69** tops; Christensen FFT 8.50 & Bergara 8.49 pass Horizon → **Horizon drops to #5/last** (8.45) |
 | **Vandal DM** | Fierce Reaper H-TAC **8.59** (Horizon #3) | Fierce **8.63** tops; **Christensen MPR jumps to #2 (8.54)**, ahead of Horizon (8.32) | Fierce **8.63** tops; Christensen #2; Horizon #4 at 8.30 |
 
 **Reading the result:**
@@ -84,7 +98,7 @@ Both scenarios agree on the qualitative conclusion: **Horizon's lead is real in 
 
 - **Seekins Precision** — The most materially mishandled brand. The false "MSRP not published" premise inflates Seekins prices 16–32% and the Accuracy criterion never credits its per-rifle tested proof. Correcting only hard facts moves two matchups to ties and lifts Element M3's existing wins; Seekins is the strongest competitor in the value-adjusted picture.
 - **Fierce Firearms** — Best head-to-head performer once errors are fixed. The CT Rival XP misclassification (steel→carbon/Ti) and ~½ chambering undercounts suppressed a brand that, corrected, tops the most matchups of any competitor and flips Vandal Prime 2 under the consistent accuracy rule. (One error favored Fierce — understated MTN Reaper MSRP — and was corrected against it.)
-- **Christensen Arms** — One large error (MPR weight 8–10 lb vs real 6.9 lb) cost it ~1.6 points in five matchups; corrected, MPR rises to #2 in all five and beats Horizon's own Vandal DM. Its guarantee and magazine scoring were verified **fair**. One unresolved item: the "Ridgeline" analog appears to be a legacy listing — publisher should re-verify or substitute Ridgeline FFT.
+- **Christensen Arms** — One large error (MPR weight 8–10 lb vs real 6.9 lb) cost it ~1.6 points in five matchups; corrected, MPR rises to #2 in all five and beats Horizon's own Vandal DM. Its guarantee and magazine scoring were verified **fair**. The Vandal Carbon 2 analog has been corrected to the current-production **Ridgeline FFT** (legacy Ridgeline 8.44 → FFT 8.50): Christensen passes Bergara under facts-only, and passes Horizon once the consistent-accuracy rule applies. Winner (Seekins) unchanged.
 - **Bergara** — Mostly **accurately** represented; most specs check out. Its poor standing is not chiefly an error problem — it is the **5% Value weight** structurally erasing the largest, most verifiable price advantage in the field. One real fix: Premier Cima Pro chambering breadth undercounted 4→9. Net price corrections actually run **both** ways.
 - **Horizon (internal skeptic)** — Confirms the report favors Horizon, but bounded and concentrated: ~+0.27 Accuracy points/matchup, plus isolated Barrel outliers (Venatic Max steel barrel and Vena-Bull's *unbranded* barrel scoring above rivals' premium carbon) and a Trigger outlier (Venatic DM 9.2 vs identical-hardware siblings at 9.0). Notably, **Weight scoring held up as fair** (sometimes conservative) when checked against real specs the report omitted — so the bias is specific, not pervasive. Transparency gaps (unpublished weights, undisclosed TriggerTech grades) cut against Horizon's own verifiability.
 
@@ -111,7 +125,40 @@ To keep this assessment unbiased, these held up under scrutiny:
 
 ---
 
-## 7. Honest headline the data supports
+## 7. Highest-value recommendations for Horizon
+
+Ranked by competitive impact — each tied to the criterion weight it moves and the specific matchups it would affect. The first three are where the leverage actually is; they target the three heaviest criteria on which Horizon currently *loses* (Accuracy 20%, Weight 15%, Caliber 10%).
+
+### Tier 1 — highest leverage
+
+**1. Turn the 0.5 MOA guarantee from a *claim* into *delivered, demonstrated* proof — and make "how we live up to it" the differentiator. (Accuracy, 20% — the single heaviest criterion.)**
+A guarantee is table stakes; *anyone can print one*. What separates brands is how well they honor it in the field — and that distinction is exactly what a spec-only comparison cannot see and what no price-cutting competitor can easily copy. Two concrete moves:
+- **Ship a fired, per-rifle test target** with every rifle (as Seekins does). This converts our weakest-justified high score — the Accuracy edge three audits flagged as currently *unearned* — into the one form of evidence the report's own Appendix C concedes is stronger than a guarantee. It immediately legitimizes our 20%-weighted advantage and neutralizes Seekins' key claim.
+- **Capture and publish customer-sentiment evidence of delivery:** independent reviews, owner-reported group sizes, warranty-honor and rework/return rates, and an NPS/satisfaction program. *Promise-vs-delivery is a moat:* a rival can match our paper 0.5 MOA overnight, but not a documented track record of living up to it. Recommend building this into marketing and tracking it as a managed metric — it is the one axis on which a premium brand can defend a premium.
+
+**2. Broaden chamberings on the focused models. (Caliber, 10% — our single largest recurring deficit.)**
+Single-caliber models (Vandal Dark II, Villain, Vandal X, Bloodline) score **3.5–4.5** against rivals' 8.6–9.0; Venatic DM (7.0) and Vandal Carbon 2 (7.6) bleed points here too — and these are precisely the matchups we lose to the Seekins Element M3 (whose verified breadth is 9.0). As the **originator of the 22 Creedmoor**, Horizon is uniquely positioned to own a *broad* proprietary-cartridge menu rather than cede breadth. Add 1–3 orderable chamberings to each focused model, **or** explicitly frame the purpose-built single-calibers so the deficit reads as intent, not omission. This is the highest-ROI spec change: closing it directly threatens Seekins' two wins over us.
+
+**3. Field a sub-6 lb titanium / trimmed-contour mountain option. (Weight, 15% — second-heaviest.)**
+Horizon hunters run **7–7.5 lb** where Christensen Ti is **4.8 lb**, Bergara Cima **5.5 lb**, and Fierce carbon rifles **5.3–6.5 lb**. Weight is where we lose the mountain-hunting matchups outright. A titanium-action or trimmed-barrel SKU would let us compete in a segment we currently can't enter on the numbers.
+
+### Tier 2 — clean, lower-cost gains
+
+**4. Standardize the TriggerTech Diamond on precision/chassis Vandals. (Trigger, 9%.)** Today they ship base-tier Primary while Seekins HIT and other chassis rivals ship the Diamond. A low-cost BOM change that closes a clean, buyer-noticed gap and matches the field's best trigger scores.
+
+**5. Close — or make legible — the price/value gap. (Value, 5% in the report; far larger in real purchase decisions.)** We are **+15% to +270%** on MSRP in nearly every matchup. Either trim cost on entry models / introduce a sharper value tier, or make the premium *visible* — proof targets (rec. 1), lifetime support, demonstrated build quality — so buyers can see what the money buys. Note the report's 5% Value weight hides this; real buyers do not.
+
+**6. Publish complete, verifiable spec sheets. (Transparency — removes buyer hesitation and "unverifiable" audit flags.)** Several Horizon weights and TriggerTech grades are unpublished; our own auditor could not verify scores from horizonfirearms.com, while every competitor publishes full sheets. Cheap, fast credibility — and it directly supports the premium-justification story in rec. 5.
+
+**7. Offer left-hand actions and broaden configuration/color menus.** Christensen and others already do; it widens the addressable market at modest tooling cost.
+
+**8. Improve availability and restock transparency.** Annual-run sell-outs blunt purchase intent regardless of how a rifle scores; clear restock timing protects conversion.
+
+**Strategic throughline:** recommendations 1, 5, and 6 reinforce each other — *demonstrated delivery and transparency are how a premium-priced brand earns its premium.* That is the one competitive position Bergara's pricing, Fierce's carbon, and Christensen's weight cannot take from us, because it is built on reputation for living up to the promise, not on a spec sheet.
+
+---
+
+## 8. Honest headline the data supports
 
 > Across nine identically-weighted criteria and after live-spec correction, **Horizon leads its premium broad-chambering hunters (Venatic Carbon 2, Venatic 2)** and is **competitive but not dominant elsewhere**, trading the top spot with **Fierce** (best corrected head-to-head record), **Seekins** (best once its real, published prices are used), and a **correctly-weighed Christensen MPR**. **Bergara** is the value leader the scoring is structurally built not to reward. Horizon's reported "tops 4 of 14" is, corrected, closer to **2 clear wins, 1 contested, and 1 uncontested-niche** — a strong premium lineup, fairly described, without the thumb on the scale.
 
