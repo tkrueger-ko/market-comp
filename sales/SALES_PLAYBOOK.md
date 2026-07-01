@@ -2,7 +2,7 @@
 
 *Phase 2 consolidation. Partisan by design — this is a tool to help Horizon reps win — but **every competitor claim is sourced** to our own research (`/audits/`) and fact-checked. The fastest way to lose a deal is an exaggeration a prospect catches, so the #1 rule of this playbook is: **sell the real gap, never the invented one.***
 
-**Read this first (the overall strategy), then the brand-specific battlecard for your deal:** [Seekins](battlecard_seekins.md) · [Fierce](battlecard_fierce.md) · [Bergara](battlecard_bergara.md) · [Christensen](battlecard_christensen.md). Underlying evidence: [Consolidated Assessment](../audits/CONSOLIDATED_ASSESSMENT.md) (§7 = delivery/sentiment). Forward threat (separate, speculative): [MDT × Lone Peak](../MDT_LonePeak_threat_assessment.md).
+**Read this first (the overall strategy), then the brand-specific battlecard for your deal:** [Seekins](battlecard_seekins.md) · [Fierce](battlecard_fierce.md) · [Bergara](battlecard_bergara.md) · [Christensen](battlecard_christensen.md). **Current MSRPs & price deltas:** [Price Reference](PRICE_REFERENCE.md). Underlying evidence: [Consolidated Assessment](../audits/CONSOLIDATED_ASSESSMENT.md) (§7 = delivery/sentiment). Forward threat (separate, speculative): [MDT × Lone Peak](../MDT_LonePeak_threat_assessment.md).
 
 ---
 

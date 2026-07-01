@@ -50,20 +50,20 @@ The prior report's 14 (Venatic Carbon 2, Venatic 2, Venatic DM, Vandal Prime 2, 
 1. **Rabble Core Pistol — $3,399** (Stiller Predator action, 13" 416R barrel, IOTA EKO Pistol carbon, 22 Creedmoor). A live, priced Core catalog page missed by the report. Currently "sold out online" but active. → This is the closest thing on the site to a compact/13" build besides the Riff.
 2. **Bandit / Core Bandit — ~$2,199–$2,499** (dealer-exclusive, off-site; see above). Not on Horizon's catalog, so arguably not a "site" miss, but a real purchasable Horizon SKU the report didn't have.
 
-### The "XLR Atom, magnesium ('MG'), Stiller Hyrax SBR, ~$3,999" model — NOT CONFIRMED
+### The "XLR Atom, magnesium ('MG'), Stiller Hyrax SBR, ~$3,999" model — PRE-RELEASE (per Horizon), not yet publicly listed
 
-**This SKU could not be verified to exist as a named, published Horizon product as of 2026-07-01. No MSRP is quoted because none could be sourced — do not quote a price to a customer until Horizon/product confirms it.** What was checked and found:
+**Horizon (internal) confirms this is a real, forthcoming SKU: a sub-6 lb SBR on the XLR *Atom* lightweight magnesium chassis, Stiller Hyrax action, ~$3,999, standard Riff/DM chamberings. It is NOT on the public catalog as of 2026-07-01 — consistent with a pre-release product ("basically coming out now").** The XLR Atom is a real, distinct XLR Industries lightweight Mg chassis (separate from the "XLR Element 4.0 Mg" on the shipping Venatic DM), so the name is plausible, not a mix-up. The web-verification detail below is retained only to explain (a) why reps won't find it online yet and (b) two things to nail down at launch — final model name and confirmed weight/price:
 
 - The string **"Atom" appears nowhere** on horizonfirearms.com. Horizon's magnesium chassis product is branded **XLR "Element 4.0 Mg"**, not XLR "Atom." (The XLR **Atom** is a real XLR Industries pistol/SBR chassis, offered in AZ61A magnesium — but it is not used in any published Horizon catalog rifle.)
 - All 15 Core product pages were fetched (raw HTML) and grepped for "Atom," "magnesium," "MG," "Hyrax" — no SBR combines Hyrax + magnesium chassis.
 - ~20 plausible URL slugs (venatic-atom, vandal-atom, venatic-mg, vandal-mg, venatic-hyrax, etc.) were brute-forced; all 302-redirect to the generic catalog (i.e., don't exist). Sitemap, Select Customs, and retailers (ableammo, eurooptic, rkguns, Gunbroker) surfaced nothing matching.
 - Independent second-pass web searches (this analyst) confirmed: XLR Atom + Stiller Hyrax are real parts, but **no completed Horizon rifle pairing them into an SBR is published anywhere.**
-- **Likely explanation:** the description appears to conflate features of three real, separate SKUs — **Hyrax action** (from Vandal DM), **magnesium XLR chassis** (from Venatic DM, which uses XLR Element 4.0 **Mg** — the actual Horizon Mg-chassis rifle, but it's Wombat action, 18–22", not an SBR), and a **13" SBR barrel** (from Venatic Riff / Rabble Core Pistol). No single current catalog SKU has all three.
+- **~~Public-data guess (now superseded by Horizon's confirmation):~~** on public data alone it *looked* like a possible conflation of three shipping SKUs (Hyrax from Vandal DM, Mg chassis from Venatic DM's XLR Element 4.0 Mg, 13" SBR barrel from the Riff/Rabble). Horizon has since confirmed it's a genuine new SKU on the XLR *Atom* chassis — so disregard the conflation theory; it simply isn't public yet.
 - **The two closest real, priced models** if a customer is asking for "Horizon Mg-chassis" or "Horizon Hyrax + chassis":
   - **Venatic DM — $4,499** — the only Horizon with a **magnesium (XLR Element 4.0 Mg) folding chassis**; Proof carbon barrel, Wombat action, 18–22" (not SBR).
   - **Vandal DM — $2,999** — **Stiller Hyrax** action on an XLR Element 4.0 (aluminum) chassis; 18–22" (not SBR, not magnesium).
 
-**Recommendation:** treat as "unconfirmed / possibly a Select Customs bespoke build or a spec mix-up." Confirm the exact SKU, action, chassis material, barrel length, and MSRP with Horizon directly before any customer quote. Flagged confidence: **cannot confirm existence.**
+**Recommendation:** treat as **confirmed-but-pre-release.** It exists (per Horizon) and is the sub-6 lb SBR referenced in the battlecards; it's just not on the public catalog yet, so don't send a prospect to a product page that isn't live. Confirm the **final model name, exact weight, and MSRP** at launch before quoting. Flagged confidence: **existence confirmed by Horizon; public listing/spec sheet pending.**
 
 ---
 
