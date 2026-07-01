@@ -39,5 +39,21 @@ Items I decided on my own to keep moving (per your "make a decision and move on,
 9. **Seekins spec corrections** (PH3 NRL = TriggerTech Diamond; Element M3 = 10 chamberings) are our corrections against a third-party report, not Seekins' own copy — spot-check seekinsprecision.com before a deal where these are decisive.
 10. **Stiller-action historical QC thread** (in `audits/horizon.md`) is dated/unclear vintage — not used as a claim; if a prospect raises Stiller's reputation, route to product/engineering rather than improvising.
 
+## Corrected edition (design-spec rebuild) note
+Built `Horizon_Comparative_Analysis_UNBIASED_2026_CORRECTED.html` (+ PDF) from
+`Comparative_Analysis_DESIGN_SPEC.md` — same skin as the original, fed the corrected
+audit data. Result: **Horizon tops 3 of 14** (matches Scenario B). Full methodology +
+every score override is in `BUILD_NOTES.md`; regenerate with `python3 build_edition.py`.
+Two decisions to confirm:
+- **11a. Scope = the original 14 models only.** The new SKUs (Rabble Core Pistol, dealer
+  Bandit, pre-release XLR-Atom Mg SBR) are NOT scored in it — phase-1 scoring is paused
+  per your instruction and there are no official photos for them (design is one photo per
+  Horizon model). They're noted in Appendix C instead. Add them once scoring is un-paused
+  and photos exist.
+- **11b. Which edition ships?** The corrected edition applies the same-spec rule to
+  Horizon too, so it is *less* flattering (3 wins, not 4) but defensible line-by-line. If
+  this is for external/customer use vs. internal truth-telling, confirm which framing you
+  want before distribution.
+
 ## Phase 3 (MDT × Lone Peak) note
 The Phase-3 agent hit a session limit on the first run and was re-launched after reset. See `MDT_LonePeak_threat_assessment.md` for its own "Open questions / assumptions log" (verification gaps on the acquisition timing, the MDT trigger's specs/reception, and whether MDT has signaled any intent to sell complete rifles vs. staying components-only).
