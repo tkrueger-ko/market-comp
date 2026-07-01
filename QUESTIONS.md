@@ -20,7 +20,7 @@ Items I decided on my own to keep moving (per your "make a decision and move on,
 
 ### Medium priority (accuracy / freshness)
 4. **Current Horizon MSRP master sheet — IN PROGRESS.** Per Horizon's go-ahead to pull MSRPs from company websites, a Sonnet agent is building `sales/PRICE_REFERENCE.md` (full Horizon lineup + competitor MSRPs + head-to-head deltas). Replaces the $2,299–$9,999 range with per-model figures.
-4b. **Sub-6 lb SKU specifics (follow-on to resolved #3) — STILL OPEN:** model name, actual weight, chambering(s), MSRP, and order/availability status — reps need these to sell it concretely rather than say "something's coming." (Pricing agent may surface some of this from the site.)
+4b. **Sub-6 lb SKU — RESOLVED: it's the XLR Atom magnesium-chassis SBR (~$3,999, Stiller Hyrax, standard Riff/DM chamberings)** — the same new SKU flagged in 5b. **Role nuance baked into the cards:** it's a short-barreled/compact rifle, so it's the sub-6 lb answer for a weight-/compactness-driven or suppressor-oriented buyer — *not* a like-for-like full-length ultralight mountain hunter (so it doesn't fully answer a Christensen Ridgeline FFT Ti mountain buyer). *Still nice-to-have: exact weight figure and whether orders can be taken today.*
 4c. **RMA turnaround — RESOLVED:** ~2 weeks, and the rifle comes back with **a handwritten note from a senior leader and a box of ammo.** This is now the signature CS proof point across the playbook and all four battlecards — a tangible, hard-to-copy "we take care of you" moment.
 
 ### Product scope
