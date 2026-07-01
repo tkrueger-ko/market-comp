@@ -19,6 +19,8 @@
 **Full evidence — spec audits (spec tables, source URLs, worked arithmetic):** [Seekins](seekins.md) · [Fierce](fierce.md) · [Bergara](bergara.md) · [Christensen](christensen.md) · [Horizon self-audit](horizon.md)
 **Full evidence — delivery/sentiment audits (owner quotes, sub-scores, sources):** [Horizon](sentiment_horizon.md) · [Seekins](sentiment_seekins.md) · [Fierce](sentiment_fierce.md) · [Bergara](sentiment_bergara.md) · [Christensen](sentiment_christensen.md)
 
+**Related deliverables (separate scope):** [Sales Playbook + battlecards](../sales/SALES_PLAYBOOK.md) (Phase 2 — partisan sales enablement) · [MDT × Lone Peak forward threat assessment](../MDT_LonePeak_threat_assessment.md) (Phase 3 — speculative 12–18 mo outlook, kept deliberately separate)
+
 ---
 
 ## 1. Bottom-line verdict
