@@ -19,9 +19,12 @@ Items I decided on my own to keep moving (per your "make a decision and move on,
 3. **Sub-6 lb option — RESOLVED: sub-6 lb options are launching now.** Updated the Fierce/Christensen "walk-away on weight" lines from a flat concession to "available/imminent — check current availability." *Still to confirm for reps: exact model name, weight, chambering, price, and whether orders can be taken today (see Open #4b).*
 
 ### Medium priority (accuracy / freshness)
-4. **Current Horizon MSRP master sheet.** Our audits cite a $2,299–$9,999 range but no per-model price list; reps need exact deltas vs specific competitor models. Where's the current price sheet?
-4b. **Sub-6 lb SKU specifics (follow-on to resolved #3):** model name, actual weight, chambering(s), MSRP, and order/availability status — reps need these to sell it concretely rather than say "something's coming."
-4c. **Exact RMA turnaround (follow-on to resolved #1):** typical days from receipt to return, so reps can quote the no-fee guarantee *and* a credible timeline.
+4. **Current Horizon MSRP master sheet — IN PROGRESS.** Per Horizon's go-ahead to pull MSRPs from company websites, a Sonnet agent is building `sales/PRICE_REFERENCE.md` (full Horizon lineup + competitor MSRPs + head-to-head deltas). Replaces the $2,299–$9,999 range with per-model figures.
+4b. **Sub-6 lb SKU specifics (follow-on to resolved #3) — STILL OPEN:** model name, actual weight, chambering(s), MSRP, and order/availability status — reps need these to sell it concretely rather than say "something's coming." (Pricing agent may surface some of this from the site.)
+4c. **RMA turnaround — RESOLVED:** ~2 weeks, and the rifle comes back with **a handwritten note from a senior leader and a box of ammo.** This is now the signature CS proof point across the playbook and all four battlecards — a tangible, hard-to-copy "we take care of you" moment.
+
+### Product scope
+5b. **The report's 14-model Horizon lineup is incomplete.** Horizon confirms at least one SKU the original analysis missed: a **magnesium XLR Atom chassis SBR (~$3,999, Stiller Hyrax action, standard Riff/DM chamberings)** — distinct from the Venatic Riff (13" SBR, Wombat action, ~$3,799). The pricing agent is capturing the full current site lineup and flagging any other missed SKUs. *Decision for you: do you want the phase-1 competitive scoring re-run to include the full current lineup, or is the sales/pricing capture sufficient?*
 5. **Point-of-sale pricing + promotions** for all brands were not refreshed. Confirm before quoting exact price gaps, especially around seasonal promos.
 6. **Horizon's own delivery confidence is thin (~17 sources, Low–Medium).** Every battlecard instructs reps to say "no comparable pattern found," not "proven better." As our volume/owner data grows this should be re-audited — and the QC-lottery risk that sank rivals tends to appear *as* volume scales, so locking QC process now matters (assessment §8).
 
