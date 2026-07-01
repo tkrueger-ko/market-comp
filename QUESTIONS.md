@@ -13,13 +13,15 @@ Items I decided on my own to keep moving (per your "make a decision and move on,
 
 ## Open questions for you (business/policy — I couldn't answer these)
 
-### Highest priority (affects whether reps can make our strongest claim)
-1. **What is Horizon's *actual* warranty/accuracy-guarantee policy — is there a fee to invoke it, and what's the real turnaround?** Our biggest wedge against Fierce is their $200 fee + slow CS. Reps must be able to state our own terms as the clean contrast. Research only found a generic "contact us if not grouping after 40 shots" FAQ line. **Please confirm the official policy** so the playbook can state it as fact.
-2. **Do we ship (or will we ship) a per-rifle fired test target?** The consolidated assessment's #1 recommendation. It's referenced as an aspiration, not a current practice — confirm current state so reps don't imply something we don't do.
-3. **Sub-6 lb / titanium mountain SKU — is it real and on a timeline?** Both the Fierce and Christensen battlecards tell reps to concede weight and "offer to follow up when our titanium option ships." Is there one in development, and can reps reference it? If not, remove that line.
+### ✅ RESOLVED (answered by Horizon 2026-07-01 — baked into playbook + battlecards)
+1. **Warranty/accuracy-guarantee policy — RESOLVED: no fee for accuracy testing + a no-questions commitment to make it right** (premium buyer → we take care of them). This is now an *affirmative lead claim* vs Fierce's $200 fee, updated across the playbook and the Seekins/Fierce/Christensen cards. *Still to confirm: exact RMA turnaround (days) before reps quote a specific number.*
+2. **Per-rifle test target — RESOLVED: we do NOT ship test targets on all production rifles**, but the no-questions make-it-right commitment stands. Fixed a real error (the Seekins card had implied we ship one); added a guardrail forbidding that claim. Our accuracy proof = *independent third-party* testing + the no-fee guarantee. (Shipping targets remains a recommended future addition, not a current practice.)
+3. **Sub-6 lb option — RESOLVED: sub-6 lb options are launching now.** Updated the Fierce/Christensen "walk-away on weight" lines from a flat concession to "available/imminent — check current availability." *Still to confirm for reps: exact model name, weight, chambering, price, and whether orders can be taken today (see Open #4b).*
 
 ### Medium priority (accuracy / freshness)
 4. **Current Horizon MSRP master sheet.** Our audits cite a $2,299–$9,999 range but no per-model price list; reps need exact deltas vs specific competitor models. Where's the current price sheet?
+4b. **Sub-6 lb SKU specifics (follow-on to resolved #3):** model name, actual weight, chambering(s), MSRP, and order/availability status — reps need these to sell it concretely rather than say "something's coming."
+4c. **Exact RMA turnaround (follow-on to resolved #1):** typical days from receipt to return, so reps can quote the no-fee guarantee *and* a credible timeline.
 5. **Point-of-sale pricing + promotions** for all brands were not refreshed. Confirm before quoting exact price gaps, especially around seasonal promos.
 6. **Horizon's own delivery confidence is thin (~17 sources, Low–Medium).** Every battlecard instructs reps to say "no comparable pattern found," not "proven better." As our volume/owner data grows this should be re-audited — and the QC-lottery risk that sank rivals tends to appear *as* volume scales, so locking QC process now matters (assessment §8).
 
